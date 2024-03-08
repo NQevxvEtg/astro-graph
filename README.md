@@ -10,4 +10,4 @@ First generate a 400 year aspects file using 1-aspect-generator.ipynb
 
 For daily usage, first get current valency data using 2-valency-finder.ipynb, then generate graph using 3-astro-graph.ipynb
 
-![ephemeris](https://github.com/NQevxvEtg/ephemeris-generator/blob/main/helio-declination-Moon.png)
+![ephemeris](https://github.com/NQevxvEtg/astro-graph/blob/main/image/BTCUSD%202024-01-01%20to%202024-06-01.png)
